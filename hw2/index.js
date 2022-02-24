@@ -1,3 +1,5 @@
+"use strict";
+
 let firstNumber = prompt('Введите певрое число');
 let secondNumber = prompt('Введите второе число');
 
